@@ -17,7 +17,7 @@ for i in range(255):
 m = 0
 n = 0
 z = 0
-999
+
 for i in range(len(msg)):
     img[n, m, z] = d[msg[i]]
     n = n + 1
